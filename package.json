@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/KingSutter/KingSutter.github.io/issues"
   },
-  "homepage": "https://github.com/KingSutter/KingSutter.github.io",
+  "homepage": "https://KingSutter.github.io/",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
