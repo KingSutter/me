@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Will Sutter",
+    "occupation":"developer",
+    "description":"Most comfortable with Javascript and related technologies as well as Java. Currently branching out and always interested in learning new things!",
+    "image":"profilepic.jpg",
+    "bio":"I enjoy playing basketball, video games, wakeboarding, climbing, mountain biking, listening to music and am currently trying to learn how to play the guitar!",
+    "contactmessage":"Feel free to contact me anytime! Contact info is listed just below on the right.",
+    "email": "kingsutter12@gmail.com",
+    "phone": "(952) 428-9090",
+    "address":{
+      "street":"14325 Oakwood Road",
+      "city":"Minneapolis",
+      "state":"Minnesota",
+      "zip": "55345"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/kingsutter",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/kingsutter",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/will-sutter/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/king_sutter",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/kingsutter",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/kingsutter",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is a list of my skills along with my proficiency with them",
+    "education":[
+      {
+        "school":"Prime Digital Academy",
+        "degree":"Certificate in Full Stack Engineering",
+        "graduated":"January 2020",
+        "description":"Explored full-stack web development with JavaScript, React, jQuery, Java, and explored several other technologies in an accelerated 20 week program."
+      },
+      {
+        "school":"University of Minnesota - Twin Cities",
+        "degree":"Computer Science",
+        "graduated":"In progress",
+        "description":"Learned Java and Python and explored programming concepts in my undergraduate program for two years."
+      }
+    ],
+    "work":[
+      {
+        "company":"Borton Volvo",
+        "title":"IT Assistant",
+        "years":"January 2020 - Present",
+        "description":"Assisted 80 fellow co-workers with anything relating to information technology."
+      },
+      {
+        "company":"Best Buy",
+        "title":"Computer Sales Associate",
+        "years":"June 2018 - August 2019",
+        "description":"Worked in a professional setting selling computers and computing accessories."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"30%"
+      },
+      {
+        "name":"Java",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Star Trails",
+        "category":"Two week solo project - space themed Oregon Trail game reboot with authentication build solely on React",
+        "image":"startrails.png",
+        "url":"https://star-trails.herokuapp.com/"
+      },
+      {
+        "title":"Rapid Interface",
+        "category":"(NOT YET DEPLOYED PUBLICLY) Developed in a group with a client for two weeks to rebuild their front end to work with their established backend.",
+        "image":"rapidinterface.png",
+        "url":"https://www.rapidinterface.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"You're bright in intelligence and personality! You always brought high energy to the room and I admire your ability to laugh and smile through the difficult times.",
+        "user":"Prime Academy classmate"
+      },
+      {
+        "text":"Appreciate that you are always willing to give the shirt off your back and keeping things interesting",
+        "user":"Prime Academy classmate"
+      }
+    ]
+  }
+}
