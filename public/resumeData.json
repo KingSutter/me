@@ -104,7 +104,7 @@
     "projects": [
       {
         "title":"Star Trails",
-        "category":"Two week solo project - space themed Oregon Trail game reboot with authentication build solely on React",
+        "category":"Two week solo project - space themed Oregon Trail game reboot with authentication built solely on React",
         "image":"startrails.png",
         "url":"https://star-trails.herokuapp.com/"
       },
