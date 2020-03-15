@@ -23,11 +23,6 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com/kingsutter",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/will-sutter/",
         "className":"fa fa-linkedin"
@@ -41,11 +36,6 @@
         "name":"github",
         "url":"http://github.com/kingsutter",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com/kingsutter",
-        "className":"fa fa-skype"
       }
     ]
   },
