@@ -9,10 +9,10 @@
     "email": "kingsutter12@gmail.com",
     "phone": "(952) 428-9090",
     "address":{
-      "street":"14325 Oakwood Road",
-      "city":"Minneapolis",
-      "state":"Minnesota",
-      "zip": "55345"
+      "street":"3404 S Platte River Drive",
+      "city":"Englewood",
+      "state":"Colorado",
+      "zip": "80110"
     },
     "website": "https://will-sutter.herokuapp.com/",
     "resumedownload":"https://docs.google.com/document/d/12gG2iUeNlmDpoCoxL-57DdqYiyvPxAyqsX634jBR3as/edit?usp=sharing",
@@ -102,6 +102,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Kodrich Associates",
+        "category":"Home website for Kodrich Associates, Inc. Made for a client needing a website for users that need information about the company and what the client has to offer.",
+        "image":"KodrichAssociates.png",
+        "url":"https://www.kodrichassociates.com/"
+      },
       {
         "title":"Star Trails",
         "category":"Two week solo project - space themed Oregon Trail game reboot with authentication built solely on React",
