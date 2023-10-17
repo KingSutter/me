@@ -2,17 +2,17 @@
   "main": {
     "name":"Will Sutter",
     "occupation":"developer",
-    "description":"Most comfortable with Javascript and related technologies as well as Java. Currently branching out and always interested in learning new things!",
+    "description":"Most comfortable with Javascript and related technologies as well as Java and Python. Currently branching out and always interested in learning new things!",
     "image":"profilepic.jpg",
     "bio":"I enjoy playing basketball, video games, wakeboarding, climbing, mountain biking, listening to music and am currently trying to learn how to play the guitar!",
     "contactmessage":"Feel free to contact me anytime! Contact info is listed just below on the right.",
     "email": "kingsutter12@gmail.com",
     "phone": "(952) 428-9090",
     "address":{
-      "street":"3404 S Platte River Drive",
-      "city":"Englewood",
+      "street":"2790 S Decatur Street",
+      "city":"Denver",
       "state":"Colorado",
-      "zip": "80110"
+      "zip": "80236"
     },
     "website": "https://will-sutter.herokuapp.com/",
     "resumedownload":"https://docs.google.com/document/d/12gG2iUeNlmDpoCoxL-57DdqYiyvPxAyqsX634jBR3as/edit?usp=sharing",
@@ -56,6 +56,18 @@
       }
     ],
     "work":[
+      {
+        "company":"DB Schenker",
+        "title":"Service Desk Analyst",
+        "years":"April 2023 - Present",
+        "description":"Helped callers with account issues, software, and hardware troubleshooting. Worked with Citrix, Azure, Cisco, Microsoft Office, and mostly troubleshot internal applications and accounts. Worked tickets via Service Now while I was off the phone and escalated anything as needed to the proper team. Monitored networks and servers company-wide and created immediate alerts should one go offline."
+      },
+      {
+        "company":"Modivcare ",
+        "title":"Service Desk Technician III",
+        "years":"June 2021 - March 2023",
+        "description":"Helped callers with account issues, software, and hardware troubleshooting. Worked with Citrix, Azure, Five9, Tableau, Microsoft Office, and internal applications during troubleshooting. Worked tickets via Service Now while I was off the phone and escalated anything as needed to the proper team. Kept Modivcare's support knowledge database up to date whenever possible."
+      },
       {
         "company":"Borton Volvo",
         "title":"IT Assistant",
