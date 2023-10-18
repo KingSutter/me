@@ -116,7 +116,7 @@
     "projects": [
       {
         "title":"Kodrich Associates",
-        "category":"Home website for Kodrich Associates, Inc. Made for a client needing a website for users that need information about the company and what the client has to offer.",
+        "category":"Landing website for Kodrich Associates, Inc. Made for a client needing a website for users that need information about the company and what the they have to offer.",
         "image":"KodrichAssociates.png",
         "url":"https://www.kodrichassociates.com/"
       },
@@ -128,7 +128,7 @@
       },
       {
         "title":"Rapid Interface",
-        "category":"(NOT YET DEPLOYED PUBLICLY) Developed in a group with a client for two weeks to rebuild their front end to work with their established backend.",
+        "category":"Two week group project with a client to rebuild their front end to work with their established backend. More access is given once you have a login for the website.",
         "image":"rapidinterface.png",
         "url":"https://www.rapidinterface.com/"
       }
