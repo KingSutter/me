@@ -57,28 +57,28 @@
     ],
     "work":[
       {
+        "company":"EchoStar Dish",
+        "title":"Product Support Engineer I",
+        "years":"June 2025 - Present",
+        "description":"Assisted our vendors with tier 3 support for our smartboxes, STBs, satellite and network configuration for a wide variety of Dish TV deployments in mostly hotels and healthcare facilities. Most of our day-to-day work was tracking down bugs, peering over logs, and offering the best solutions and work-arounds we can. We also constantly kept our partner and employee-facing knowledge base up to date. Also, I worked closely with our QA and development team to track down and resolve bugs and outages. I primarily used Google Workspace, Salesforce, and in-house developed applications for our day-to-day communications, case tracking, and troubleshooting"
+      },
+      {
+        "company":"Konica Minolta",
+        "title":"Service Desk Engineer",
+        "years":"June 2024 - May 2025",
+        "description":"Worked with Webex, beyondtrust, putty, rev.io and several internally built applications to deliver a streamlined support experience for thousands of clients needing support with the unified communications solution that we offer"
+      },
+      {
         "company":"DB Schenker",
         "title":"Service Desk Analyst",
         "years":"April 2023 - Present",
         "description":"Helped callers with account issues, software, and hardware troubleshooting. Worked with Citrix, Azure, Cisco, Microsoft Office, and mostly troubleshot internal applications and accounts. Worked tickets via Service Now while I was off the phone and escalated anything as needed to the proper team. Monitored networks and servers company-wide and created immediate alerts should one go offline."
       },
       {
-        "company":"Modivcare ",
+        "company":"Modivcare",
         "title":"Service Desk Technician III",
         "years":"June 2021 - March 2023",
         "description":"Helped callers with account issues, software, and hardware troubleshooting. Worked with Citrix, Azure, Five9, Tableau, Microsoft Office, and internal applications during troubleshooting. Worked tickets via Service Now while I was off the phone and escalated anything as needed to the proper team. Kept Modivcare's support knowledge database up to date whenever possible."
-      },
-      {
-        "company":"Borton Volvo",
-        "title":"IT Assistant",
-        "years":"January 2020 - Present",
-        "description":"Assisted 80+ fellow co-workers with anything relating to information technology."
-      },
-      {
-        "company":"Best Buy",
-        "title":"Computer Sales Associate",
-        "years":"June 2018 - August 2019",
-        "description":"Worked in a professional setting selling computers and computing accessories."
       }
     ],
     "skills":[
